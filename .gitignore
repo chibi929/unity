@@ -2,6 +2,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=unity
 
 .vscode/
+TextMesh Pro/
+NotoSansJP-Regular SDF.asset
 
 ### Unity ###
 # This .gitignore file should be placed at the root of your Unity project directory
